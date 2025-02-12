@@ -4,6 +4,7 @@
 - Sou estudante de Ciência de Dados e Inteligência Artificial na IBMEC-RJ
 - Tenho conhecimento em Python e desenvolvimento WEB com HTML, CSS e JavaScript.
 - 👩‍💻 Aprendendo sobre back-end
+- Estudando SQL
 - Fluente em Inglês
 
 ---
