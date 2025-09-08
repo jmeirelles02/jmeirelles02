@@ -2,11 +2,10 @@
 
 # Boas vindas ao meu github!
 - Sou estudante de Ciência de Dados e Inteligência Artificial na IBMEC-RJ
-- Tenho conhecimento em Python e Desenvolvimento WEB com HTML, CSS e JavaScript, SQL.
+- Tenho conhecimento em Python, Django, Panda, Matplotlib, HTML, CSS, JavaScript, React, SQL, Excel, Power BI.
 - Conhecimento em Métodos ágeis(Scrum, Kanban, Scrumban, XP, Lean)
-- 👩‍💻 Aprendendo sobre back-end
-- Fluente em Inglês
-- Aprendendo Espanhol
+- 👩‍💻 Aprendendo sobre Java
+- Fluente em Inglês(B2 level)
 
 ---
 
