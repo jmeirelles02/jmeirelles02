@@ -18,6 +18,11 @@ Estudante de **Ciência de Dados e Inteligência Artificial** no IBMEC-RJ (5º p
 
 ### 🧪 Projetos em Destaque
 
+#### 👁️ [Argus - Contextual Awareness Engine]
+Motor de inteligência proativo e autónomo focado em análise financeira.
+* **Stack:** Python, FastAPI, APScheduler, ChromaDB, LLM Local via Ollama(Qwen2.5).
+* **Diferencial:** Sistema de agentes que executa ETL em background, vetoriza dados para memória de longo prazo (RAG) e decide autonomamente sobre notificações de risco/oportunidade.
+
 #### 🤖 [Jarvis - Assistente Financeiro Multimodal]
 Assistente integrado ao Telegram que utiliza a API do Gemini para análise de dados financeiros.
 * **Stack:** Python, SQLAlchemy, Pandas, Matplotlib.
@@ -34,15 +39,10 @@ Projeto completo de engenharia de dados consumindo informações do ufcstats.com
 * **Objetivo:** Base de dados limpa para análises estatísticas e modelos preditivos de lutas.
 ---
 
-### 📈 Estatísticas & Contato
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" height="170px" />
-</div>
+### 📈 Contatos e Mais
 
 - 📧 **E-mail:** jmguedes48@gmail.com
-- 💼 **LinkedIn:** [www.linkedin.com/in/joaogmguedes]
+- 💼 **LinkedIn:** www.linkedin.com/in/joaogmguedes
 - 🌎 **Idiomas:** Português (Nativo) | Inglês (Fluente/C1)
 
 ---
