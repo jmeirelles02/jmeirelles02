@@ -21,7 +21,7 @@ Estudante de **Ciência de Dados e Inteligência Artificial** no IBMEC-RJ (5º p
 #### 👁️ [Argus - Contextual Awareness Engine]
 Motor de inteligência proativo e autónomo focado em análise financeira.
 * **Stack:** Python, FastAPI, APScheduler, ChromaDB, LLM Local via Ollama(Qwen2.5).
-* **Diferencial:** Sistema de agentes que executa ETL em background, vetoriza dados para memória de longo prazo (RAG) e decide autonomamente sobre notificações de risco/oportunidade.
+* **Diferencial:** Sistema de agentes que executa ETL em background, vetoriza dados para memória de longo prazo (RAG) e decide autonomamente sobre notificações de risco/oportunidade de investimentos.
 
 #### 🤖 [Jarvis - Assistente Financeiro Multimodal]
 Assistente integrado ao Telegram que utiliza a API do Gemini para análise de dados financeiros.
