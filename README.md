@@ -18,6 +18,11 @@ Estudante de **Ciência de Dados e Inteligência Artificial** no IBMEC-RJ (5º p
 
 ### 🧪 Projetos em Destaque
 
+#### 🎙️ [Zeno - Assistente Virtual de Operação Local]
+Assistente de desktop que processa comandos de voz e texto para executar tarefas no Windows e gerenciar automações.
+* **Stack:** Python, Flask, Tauri (HTML/CSS/JS), Neon (PostgreSQL), Google Gemini.
+* **Diferencial:** Arquitetura RAG com embeddings vetoriais para memória de longo prazo, síntese de voz (TTS) e capacidade de escrever e rodar scripts locais autonomamente.
+
 #### 👁️ [Argus - Contextual Awareness Engine]
 Motor de inteligência proativo e autónomo focado em análise financeira.
 * **Stack:** Python, FastAPI, APScheduler, ChromaDB, LLM Local via Ollama(Qwen2.5).
