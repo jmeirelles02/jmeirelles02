@@ -10,7 +10,7 @@ Estudante de **Ciência de Dados e Inteligência Artificial** no IBMEC-RJ (5º p
 
 * **Linguagens:** Python, R, SQL, JavaScript, Css e HTML
 * **Dados & Engenharia:** ETL/ELT, Pandas, SQLAlchemy, SQLite, Big Data Tools
-* **IA & Backend:** FastAPI, LangGraph, Engenharia de Prompt, Agentes de IA
+* **IA & Backend:** LangChain, Fast API, LangGraph, Engenharia de Prompt, Agentes de IA
 * **Visualização & Cloud:** Power BI, Looker, AWS, Excel
 * **Metodologias:** Scrum, Kanban, Lean, XP
 
@@ -18,7 +18,7 @@ Estudante de **Ciência de Dados e Inteligência Artificial** no IBMEC-RJ (5º p
 
 ### 🧪 Projetos em Destaque
 
-#### 🎙️ [Zeno - Assistente Virtual de Operação Local]
+#### 🎙️ [A.R.I.S - ARTIFCIAL REACTIVE INTELLIGENT SYSTEM]
 Assistente de desktop que processa comandos de voz e texto para executar tarefas no Windows e gerenciar automações.
 * **Stack:** Python, Flask, Tauri (HTML/CSS/JS), Neon (PostgreSQL), Google Gemini.
 * **Diferencial:** Arquitetura RAG com embeddings vetoriais para memória de longo prazo, síntese de voz (TTS) e capacidade de escrever e rodar scripts locais autonomamente.
@@ -28,7 +28,7 @@ Motor de inteligência proativo e autónomo focado em análise financeira.
 * **Stack:** Python, FastAPI, APScheduler, ChromaDB, LLM Local via Ollama(Qwen2.5).
 * **Diferencial:** Sistema de agentes que executa ETL em background, vetoriza dados para memória de longo prazo (RAG) e decide autonomamente sobre notificações de risco/oportunidade de investimentos.
 
-#### 🤖 [Jarvis - Assistente Financeiro Multimodal]
+#### 🤖 [Jarvis - Assistente Financeiro]
 Assistente integrado ao Telegram que utiliza a API do Gemini para análise de dados financeiros.
 * **Stack:** Python, SQLAlchemy, Pandas, Matplotlib.
 * **Diferencial:** Processamento de dados em tempo real e visualização de métricas diretamente no chat.
@@ -48,7 +48,7 @@ Projeto completo de engenharia de dados consumindo informações do ufcstats.com
 
 - 📧 **E-mail:** jmguedes48@gmail.com
 - 💼 **LinkedIn:** www.linkedin.com/in/joaogmguedes
-- 🌎 **Idiomas:** Português (Nativo) | Inglês (Fluente/C1)
+- 🌎 **Idiomas:** Português (Nativo) | Inglês (Fluente/C1) | Espanhol (Básico)
 
 ---
 "Building the future, one prompt at a time."
