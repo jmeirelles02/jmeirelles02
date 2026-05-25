@@ -8,10 +8,10 @@ Estudante de **Ciência de Dados e Inteligência Artificial** no IBMEC-RJ (5º p
 
 ### 🛠️ Tech Stack & Ferramentas
 
-* **Linguagens:** Python, R, SQL, JavaScript, Css e HTML
-* **Dados & Engenharia:** ETL/ELT, Pandas, SQLAlchemy, SQLite, Big Data Tools
+* **Linguagens:** Python, SQL, JavaScript, Css e HTML
+* **Dados & Engenharia:** ETL/ELT, Pandas, SQLAlchemy, SQLite.
 * **IA & Backend:** LangChain, Fast API, LangGraph, Engenharia de Prompt, Agentes de IA
-* **Visualização & Cloud:** Power BI, Looker, AWS, Excel
+* **Visualização & Cloud:** Power BI, Looker, Excel
 * **Metodologias:** Scrum, Kanban, Lean, XP
 
 ---
