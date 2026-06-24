@@ -2,17 +2,17 @@
 
 <img src = "giphy.webp" width = "325px" align = "right">
 
-Estudante de **Ciência de Dados e Inteligência Artificial** no IBMEC-RJ (5º período). Atuo na intersecção entre Engenharia de Dados, Software e IA, focado em construir soluções escaláveis e inteligentes.
+Estudante de **Ciência de Dados e Inteligência Artificial** no IBMEC-RJ (5º período). Atuo na intersecção entre Desenvolvimento de Software, automações e IA, focado em construir soluções escaláveis e inteligentes.
 
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
 
-* **Linguagens:** Python, SQL, JavaScript, Css e HTML
-* **Dados & Engenharia:** ETL/ELT, Pandas, SQLAlchemy, SQLite.
-* **IA & Backend:** LangChain, Fast API, LangGraph, Engenharia de Prompt, Agentes de IA
-* **Visualização & Cloud:** Power BI, Looker, Excel
+* **Linguagens:** Python, SQL, TypeScript, JavaScript, Css e HTML
+* **Frameworks:** React, FastAPI, LangChain, LangGraph, Pandas, Flask, Tailwind.
+* **Visualização & Cloud:** Power BI, Looker, Excel, Azure
 * **Metodologias:** Scrum, Kanban, Lean, XP
+* **Ferramentas:** N8N, Pentaho, Docker, Postman.
 
 ---
 
