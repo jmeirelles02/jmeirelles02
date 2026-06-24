@@ -2,7 +2,7 @@
 
 <img src = "giphy.webp" width = "325px" align = "right">
 
-Estudante de **Ciência de Dados e Inteligência Artificial** no IBMEC-RJ (5º período). Atuo na intersecção entre Desenvolvimento de Software, automações e IA, focado em construir soluções escaláveis e inteligentes.
+Estudante de **Ciência de Dados e Inteligência Artificial** no Ibmec-RJ e Estágiario de **Analise de Investimentos com IA** na Igarapava Capital. Atuo na intersecção entre Desenvolvimento de Software, automações e IA, focado em construir soluções escaláveis e inteligentes.
 
 ---
 
