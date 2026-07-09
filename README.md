@@ -18,37 +18,36 @@ Estudante de **Ciência de Dados e Inteligência Artificial** no Ibmec-RJ e Est�
 
 ### 🧪 Projetos em Destaque
 
-#### 🎙️ [A.R.I.S - ARTIFCIAL REACTIVE INTELLIGENT SYSTEM]
+#### [A.R.I.S - ARTIFCIAL REACTIVE INTELLIGENT SYSTEM]
 Assistente de desktop que processa comandos de voz e texto para executar tarefas no Windows e gerenciar automações.
 * **Stack:** Python, Flask, Tauri (HTML/CSS/JS), Neon (PostgreSQL), Google Gemini.
 * **Diferencial:** Arquitetura RAG com embeddings vetoriais para memória de longo prazo, síntese de voz (TTS) e capacidade de escrever e rodar scripts locais autonomamente.
 
-#### 👁️ [Argus - Contextual Awareness Engine]
+#### [Argus - Contextual Awareness Engine]
 Motor de inteligência proativo e autónomo focado em análise financeira.
 * **Stack:** Python, FastAPI, APScheduler, ChromaDB, LLM Local via Ollama(Qwen2.5).
 * **Diferencial:** Sistema de agentes que executa ETL em background, vetoriza dados para memória de longo prazo (RAG) e decide autonomamente sobre notificações de risco/oportunidade de investimentos.
 
-#### 🤖 [Jarvis - Assistente Financeiro]
+#### [Jarvis - Assistente Financeiro]
 Assistente integrado ao Telegram que utiliza a API do Gemini para análise de dados financeiros.
 * **Stack:** Python, SQLAlchemy, Pandas, Matplotlib.
 * **Diferencial:** Processamento de dados em tempo real e visualização de métricas diretamente no chat.
 
-#### 🛡️ [Aegis - Shadow Architect]
+#### [Aegis - Shadow Architect]
 Mentor técnico projetado para auxiliar em decisões de arquitetura de sistemas.
 * **Stack:** Python, FastAPI, LangGraph.
 * **Diferencial:** Uso de grafos de estado para fluxos de decisão complexos em engenharia de software.
 
-#### 🥊 [UFC Data Pipeline (ETL)]
-Projeto completo de engenharia de dados consumindo informações do ufcstats.com.
-* **Fluxo:** Web Scraping → Transformação com Pandas → Carga em SQLite.
-* **Objetivo:** Base de dados limpa para análises estatísticas e modelos preditivos de lutas.
+#### [CRM para Fundos de Investimento]
+Desenvolvi um CRM completo com foco para Fundos de Investimento(PEs, VCs e Search Funds), contando com ferramentas de disparo de email, gestão de contatos e dashboard com KPIs necessários para visualizar o processo.
+* **Stack:** Python, TypeScript, Docker, CSS, HTML e Groq API
+* **Objetivo:** Facilitar a gestão da base de contatos do fundo, automatizar o processo de envio de email e facilitar a visão do processo com dados organizados.
 ---
 
 ### 📈 Contatos e Mais
 
 - 📧 **E-mail:** jmguedes48@gmail.com
 - 💼 **LinkedIn:** www.linkedin.com/in/joaogmguedes
-- 🌎 **Idiomas:** Português (Nativo) | Inglês (Fluente/C1) | Espanhol (Básico)
+- 🌎 **Idiomas:** Português (Nativo) | Inglês (Avançado/C1) | Espanhol (Básico)
 
 ---
-"Building the future, one prompt at a time."
