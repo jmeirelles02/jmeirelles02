@@ -1,25 +1,50 @@
-# Boas vindas ao meu github!
+<div align="center">
 
-<img src = "giphy.webp" width = "325px" align = "right">
+# jmeirelles02
 
-Estudante de **Ciência de Dados e Inteligência Artificial** no Ibmec-RJ e Estágiario de **Analise de Investimentos com IA** na Igarapava Capital. Atuo na intersecção entre Desenvolvimento de Software, automações e IA, focado em construir soluções escaláveis e inteligentes.
+</div>
+
+```
+                                              joao@guedes
+                                              -----------
+              .:^!!^:.                       OS: ................... <sua OS>
+           :~7?J5PP5J?7~:                    Uptime: ............... <preencher>
+        :~?5GB##&&&&##BG5?~:                 Host: ................. <preencher>
+      :!YB#&&&&&&&&&&&&&&#BY!:               Kernel: ............... <preencher>
+     ~JB&&&&&&&&&&&&&&&&&&&&B J~             IDE: .................. VS Code
+    ^Y#&&&&&&&&&&&&&&&&&&&&&&#Y^
+    7#&&&&&&&&&&&&&&&&&&&&&&&&#7             Languages.Programming:  Python, JavaScript,
+    J&&&&&&&&&&&&&&&&&&&&&&&&&&J                                     TypeScript
+    Y&&&&&&&&&&&&&&&&&&&&&&&&&&Y             Languages.Computer: ... HTML, CSS, JSON, YAML
+    7&&&&&&&&&&&&&&&&&&&&&&&&&&7             Languages.Real: ....... Portuguese, English
+    ^Y&&&&&&&&&&&&&&&&&&&&&&&&Y^
+     ~J#&&&&&&&&&&&&&&&&&&&&#J~              - Contact ------------------------------
+      :!5B&&&&&&&&&&&&&&&&B5!:               Email.Personal: ....... jmguedes48@gmail.com
+        :~?5GB#&&&&&&#BG5?~:                 Email.Work: ........... joao.guedes@igarapavacapital.com.br
+           :~7?J5PP5J?7~:                     LinkedIn: ............. joaogmguedes
+              .:^!!^:.                       GitHub: ............... jmeirelles02
+
+                                              - GitHub Stats -------------------------
+                                              Repos: .... <preencher> {Contributed: <preencher>}
+                                              Commits: .. <preencher>  |  Followers: ... <preencher>
+                                              Stars: .... <preencher>  |  Following: ... <preencher>
+                                              Lines of Code on GitHub: <preencher>
+```
+
+## Pinned
+
+<!-- Substitua pelos seus 2 repositórios favoritos -->
+
+| Repo | Descrição | Linguagem |
+|---|---|---|
+| [repo-1](https://github.com/jmeirelles02/repo-1) | Descrição curta do projeto | Python |
+| [repo-2](https://github.com/jmeirelles02/repo-2) | Descrição curta do projeto | TypeScript |
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+<div align="center">
 
-* **Linguagens:** Python, SQL, TypeScript, JavaScript, Css e HTML
-* **Frameworks:** React, FastAPI, LangChain, LangGraph, Pandas, Flask, Tailwind.
-* **Visualização & Cloud:** Power BI, Looker, Excel, Azure
-* **Metodologias:** Scrum, Kanban, Lean, XP
-* **Ferramentas:** N8N, Pentaho, Docker, Postman.
+📫 **jmguedes48@gmail.com** · **joao.guedes@igarapavacapital.com.br**
+🔗 [LinkedIn](https://linkedin.com/in/joaogmguedes) · [GitHub](https://github.com/jmeirelles02)
 
----
-
-### 📈 Contatos e Mais
-
-- 📧 **E-mail:** jmguedes48@gmail.com
-- 💼 **LinkedIn:** www.linkedin.com/in/joaogmguedes
-- 🌎 **Idiomas:** Português (Nativo) | Inglês (Avançado/C1) | Espanhol (Básico)
-
----
+</div>
