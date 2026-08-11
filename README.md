@@ -8,8 +8,8 @@ joao@guedes
     ^Y#&&&&&&&&&&&&&&&&&&&&&&#Y^             Languages.Programming:  Python, JavaScript,
     7#&&&&&&&&&&&&&&&&&&&&&&&&#7                                     TypeScript
     J&&&&&&&&&&&&&&&&&&&&&&&&&&J             Languages.Computer: ... HTML, CSS, JSON, YAML
-    Y&&&&&&&&&&&&&&&&&&&&&&&&&&Y             Languages.Real: ....... Portuguese (native),
-    7&&&&&&&&&&&&&&&&&&&&&&&&&&7                                     English, Spanish
+    Y&&&&&&&&&&&&&&&&&&&&&&&&&&Y             Languages.Real: ....... Portuguese, English, Spanish
+    7&&&&&&&&&&&&&&&&&&&&&&&&&&7                                    
     ^Y&&&&&&&&&&&&&&&&&&&&&&&&Y^
      ~J#&&&&&&&&&&&&&&&&&&&&#J~              - Contact ------------------------------
       :!5B&&&&&&&&&&&&&&&&B5!:               Email.Personal: ....... jmguedes48@gmail.com
