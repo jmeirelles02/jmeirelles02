@@ -1,5 +1,9 @@
 <div align="center">
 
+
+
+</div>
+
 ```
                                               joao@guedes
                                               -----------
@@ -27,6 +31,19 @@
                                               Top Langs:  Python(6) JS(4) HTML(2) Java(1)
                                               On GitHub since: ...... Mar 2024
 ```
+
+## Pinned
+
+| Repo | Linguagem |
+|---|---|
+| [ArgusBot](https://github.com/jmeirelles02/ArgusBot) | Python |
+| [JarvisTelegram](https://github.com/jmeirelles02/JarvisTelegram) | Python |
+| [A.R.I.S](https://github.com/jmeirelles02/A.R.I.S) | Python |
+| [aegis](https://github.com/jmeirelles02/aegis) | Python |
+| [LocOnibus](https://github.com/jmeirelles02/LocOnibus) | JavaScript |
+| [Projeto-UFC-ETL](https://github.com/jmeirelles02/Projeto-UFC-ETL) | Python |
+
+---
 
 <div align="center">
 
