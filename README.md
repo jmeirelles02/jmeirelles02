@@ -32,7 +32,7 @@
                                               On GitHub since: ...... Mar 2024
 ```
 
-## Pinned
+
 
 
 
@@ -40,7 +40,6 @@
 
 <div align="center">
 
-📫 **jmguedes48@gmail.com** · **joao.guedes@igarapavacapital.com.br**
-🔗 [LinkedIn](https://linkedin.com/in/joaogmguedes) · [GitHub](https://github.com/jmeirelles02)
+
 
 </div>
