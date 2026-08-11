@@ -1,9 +1,5 @@
 <div align="center">
 
-# jmeirelles02
-
-</div>
-
 ```
                                               joao@guedes
                                               -----------
