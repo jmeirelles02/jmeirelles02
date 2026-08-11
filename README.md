@@ -1,4 +1,11 @@
-joao@guedes
+<div align="center">
+
+# jmeirelles02
+
+</div>
+
+```
+                                              joao@guedes
                                               -----------
               .:^!!^:.                       OS: ................... Linux (Ubuntu) / Windows
            :~7?J5PP5J?7~:                    Uptime: ............... 20 years, 3 months, 10 days
@@ -22,4 +29,7 @@ joao@guedes
                                               Followers:  1  |  Following: ... 0
                                               Stars: .... 0  |  Forks: ......... 0
                                               Top Langs:  Python(6) JS(4) HTML(2) Java(1)
-                                              On GitHub since: ...... Mar 2024
+
+🔗 [LinkedIn](https://linkedin.com/in/joaogmguedes) · [GitHub](https://github.com/jmeirelles02)
+
+</div>
