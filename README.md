@@ -25,7 +25,12 @@
                                               Followers:  1  |  Following: ... 0
                                               Stars: .... 0  |  Forks: ......... 0
                                               Top Langs:  Python(6) JS(4) HTML(2) Java(1)
+                                              On GitHub since: ...... Mar 2024
+```
 
+<div align="center">
+
+📫 **jmguedes48@gmail.com** · **joao.guedes@igarapavacapital.com.br**
 🔗 [LinkedIn](https://linkedin.com/in/joaogmguedes) · [GitHub](https://github.com/jmeirelles02)
 
 </div>
