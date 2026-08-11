@@ -34,14 +34,7 @@
 
 ## Pinned
 
-| Repo | Linguagem |
-|---|---|
-| [ArgusBot](https://github.com/jmeirelles02/ArgusBot) | Python |
-| [JarvisTelegram](https://github.com/jmeirelles02/JarvisTelegram) | Python |
-| [A.R.I.S](https://github.com/jmeirelles02/A.R.I.S) | Python |
-| [aegis](https://github.com/jmeirelles02/aegis) | Python |
-| [LocOnibus](https://github.com/jmeirelles02/LocOnibus) | JavaScript |
-| [Projeto-UFC-ETL](https://github.com/jmeirelles02/Projeto-UFC-ETL) | Python |
+
 
 ---
 
